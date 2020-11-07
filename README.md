@@ -1,5 +1,5 @@
 # Demo 
-[!firstreactapp](Capture.PNG)
+![firstreactapp](Capture.PNG)
 
 
 # Getting Started with Create React App
