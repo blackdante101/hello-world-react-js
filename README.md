@@ -1,10 +1,10 @@
-# Demo 
-![firstreactapp](Capture.PNG)
-
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Demo 
+![firstreactapp](Capture.PNG)
 
 ## Available Scripts
 
