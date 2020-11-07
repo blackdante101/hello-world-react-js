@@ -1,25 +1,24 @@
 import logo from './logo.svg';
+import dante from './gandi.png';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={dante} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        " An eye for eye only ends up making the whole world blind.<br/>
+Where there is love there is life.<br/>
+In a gentle way, you can shake the world. - Mahatma Gandhi"
+
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
       </header>
+
     </div>
+    
   );
 }
 
 export default App;
+
